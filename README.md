@@ -2,6 +2,5 @@
 
 [KnowledgeResume.com](https://jolly-goldstine-b55494.netlify.app/).
 
-1. It is a complete responsive website prepared using HTML, CSS.
-2. A small JavaScript code used to make functional the hamberger menu
-3. Contains 05 html pages, used some hover effect, and image overlay as 
+1. It is a complete responsive website prepared using basic HTML, and CSS
+2. Added keyframe animation, and some advanced css to design the border and others.
